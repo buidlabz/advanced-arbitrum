@@ -1,0 +1,17 @@
+[book]
+title = "Advanced Arbitrum"
+authors = ["buidlabz"]
+description = "The book is a guide for advanced developers who want to get their hands exremely dirty"
+language = "en"
+multilingual = false
+src = "src"
+text-direction= "ltr"
+
+[output.html]
+default-theme = "dark"
+preferred-dark-theme = "navy"
+additional-css = ["general.css"]
+additional-js = ["custom.js"]
+site-url = "https://buidlabz.github.io/advanced-arbitrum/"
+git-repository-url = "https://github.com/buidlabz/advanced-arbitrum"
+git-repository-icon = "fa-github"
